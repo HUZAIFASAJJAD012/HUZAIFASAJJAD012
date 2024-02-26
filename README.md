@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HUZAIFA SAJJAD</h1>
 <h3 align="center">🌐 My expertise lies in front-end and back-end development, where I leverage technologies like HTML, CSS, JavaScript, React, Node.js, and more to build user-friendly interfaces and scalable systems. 📱 Additionally, I have a keen interest in mobile development, harnessing frameworks such as React Native or Flutter to create cross-platform applications that deliver seamless experiences across devices.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifasajjad012&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifasajjad012" /> </p>
+<p align="left"> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 <br>
