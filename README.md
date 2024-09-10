@@ -19,7 +19,6 @@ Whatsapp: 03413332077
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifasajjad012&show_icons=true&locale=en&layout=compact" alt="huzaifasajjad012" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifasajjad012&show_icons=true&locale=en" alt="huzaifasajjad012" /></p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
