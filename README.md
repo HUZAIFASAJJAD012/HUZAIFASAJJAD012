@@ -1,95 +1,92 @@
-<h1 align="center">Hi 👋, I'm HUZAIFA SAJJAD</h1>
+<div align="center">
 
-<h3 align="center">
-🌐 My expertise lies in front-end and back-end development, where I leverage technologies like HTML, CSS, JavaScript, React, Node.js, and more to build user-friendly interfaces and scalable systems. 📱 Additionally, I have a keen interest in mobile development, harnessing frameworks such as React Native or Flutter to create cross-platform applications that deliver seamless experiences across devices.
-</h3>
+# Hey, I'm Huzaifa Sajjad 👋
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+### Full-Stack & Mobile Developer
 
-<br><br><br><br>
+*Building performant web and mobile experiences — from pixel-perfect frontends to scalable backends.*
 
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-📧 Email: <b>huzaifasajjad4404@gmail.com</b><br>
-📱 WhatsApp: <b>+92 341 3332077</b>
-</p>
+[![Email](https://img.shields.io/badge/Email-huzaifasajjad4404%40gmail.com-6366f1?style=flat-square&logo=gmail&logoColor=white)](mailto:huzaifasajjad4404@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20341%203332077-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923413332077)
+[![GitHub](https://img.shields.io/badge/GitHub-huzaifasajjad012-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huzaifasajjad012)
 
-<h3 align="left">🚀 Languages and Tools:</h3>
+</div>
 
-<p align="left">
+---
 
-<!-- Frontend -->
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</a>
+## 🧠 About Me
 
-<!-- Backend -->
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://nestjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
-</a>
+- 🌐 Expert in **front-end and back-end development** — building user-friendly interfaces and scalable systems
+- 📱 Passionate about **mobile development** with React Native for seamless cross-platform experiences
+- ☁️ Experienced with **cloud & DevOps** tooling including AWS and Docker
+- 💳 Integrated **payment systems** using Stripe in production apps
+- 🤝 Open to **freelance**, **contracts**, and **full-time** roles
 
-<!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
+---
 
-<!-- Mobile -->
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-</a>
+## 🚀 Tech Stack
 
-<!-- DevOps / Cloud -->
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-<!-- Payments -->
-<a href="https://stripe.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" width="40" height="40"/>
-</a>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-<!-- Programming / Tools -->
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40"/>
-</a>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-</p>
+### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<br>
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifasajjad012&show_icons=true&locale=en&layout=compact" alt="huzaifasajjad012" />
-</p>
+### Payments & Other
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-<br><br><br><br>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=huzaifasajjad012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifasajjad012&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=huzaifasajjad012&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+*Let's build something great — reach out anytime!*
+
+[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-6366f1?style=for-the-badge)](mailto:huzaifasajjad4404@gmail.com)
+
+</div>
