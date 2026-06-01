@@ -1,58 +1,247 @@
+```md
 <div align="center">
 
-# Hey, I'm Huzaifa Sajjad 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:312e81,100:6366f1&text=Huzaifa%20Sajjad&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Web%20Team%20Lead&descAlignY=58&animation=fadeIn" />
 
-### Full-Stack & Mobile Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;Mobile+App+Developer;Web+Team+Lead+%26+Project+Manager;Next.js+%7C+NestJS+%7C+React+Native+%7C+Three.js;Building+modern+and+scalable+digital+products" alt="Typing SVG" />
 
-*Building performant web and mobile experiences — from pixel-perfect frontends to scalable backends.*
+<br />
 
-[![Email](https://img.shields.io/badge/Email-huzaifasajjad4404%40gmail.com-6366f1?style=flat-square&logo=gmail&logoColor=white)](mailto:huzaifasajjad4404@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20341%203332077-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923413332077)
-[![GitHub](https://img.shields.io/badge/GitHub-huzaifasajjad012-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/huzaifasajjad012)
+<a href="mailto:huzaifasajjad4404@gmail.com">
+  <img src="https://img.shields.io/badge/Email-huzaifasajjad4404%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/923413332077">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B92%20341%203332077-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://github.com/huzaifasajjad012">
+  <img src="https://img.shields.io/badge/GitHub-huzaifasajjad012-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🌐 Expert in **front-end and back-end development** — building user-friendly interfaces and scalable systems
-- 📱 Passionate about **mobile development** with React Native for seamless cross-platform experiences
-- ☁️ Experienced with **cloud & DevOps** tooling including AWS and Docker
-- 💳 Integrated **payment systems** using Stripe in production apps
-- 🤝 Open to **freelance**, **contracts**, and **full-time** roles
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+I’m **Huzaifa Sajjad**, a **Full-Stack Web Developer** with **3+ years of experience** building modern, scalable, and high-performance web and mobile applications.
+
+I work across **frontend, backend, mobile apps, cloud deployment, APIs, payment systems, and product architecture**.
+
+- 🚀 Full-stack development with **React.js, Next.js, Node.js, Express.js, NestJS**
+- 📱 Mobile app development with **React Native**
+- 🎨 Modern UI using **Tailwind CSS, Three.js, GSAP, Framer Motion**
+- 🧠 Backend systems with **PostgreSQL, MongoDB, Firebase, Supabase**
+- 💳 Payment integrations with **Stripe, Stripe Connect, subscriptions, multi-vendor payments**
+- ☁️ Deployment with **Vercel, Netlify, AWS, VPS, GitHub Actions**
+- 🤝 Open to **freelance, contract, remote, and full-time opportunities**
+
+<br clear="right" />
 
 ---
 
-## 🚀 Tech Stack
+## 💎 Tech Stack
+
+<div align="center">
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,threejs" />
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
 
-### Mobile
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Database & Cloud
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase,aws,docker,githubactions" />
 
-### Payments & Other
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+
+</div>
+
+---
+
+## ⚡ What I Do
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 Frontend Development
+- React.js / Next.js websites
+- Responsive landing pages
+- Single Page Applications
+- Tailwind CSS interfaces
+- Framer Motion animations
+- Three.js 3D web experiences
+
+</td>
+<td width="50%">
+
+### 🛠 Backend Development
+- REST API development
+- Node.js / Express.js services
+- NestJS architecture
+- JWT authentication
+- Database design
+- API integrations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Mobile Development
+- React Native apps
+- Cross-platform UI
+- API-connected mobile flows
+- Smooth mobile user experience
+
+</td>
+<td width="50%">
+
+### ☁️ Deployment
+- Vercel deployment
+- Netlify deployment
+- AWS setup
+- Hostinger VPS
+- GitHub Actions
+- Production app management
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🚀 Web Team Lead — Firnas.tech  
+**09/2023 — Present**
+
+- Led a small team of frontend and backend developers
+- Architected and developed microservices
+- Integrated smart contracts on client side
+- Reviewed PRs and managed codebase
+
+### ⚙️ MERN Stack Developer — Firnas.tech  
+**09/2023 — Present**
+
+- Built REST APIs for social media modules
+- Integrated APIs with client-side applications
+- Worked with Node.js, Express.js, MongoDB, React.js, JWT, Git and Axios
+
+### 🧠 Full-Stack & Project Manager — SoftwareForge Agency  
+**01/2025 — Present**
+
+- Built REST APIs and scalable backend systems
+- Integrated APIs with frontend applications
+- Managed full-stack project workflows
+- Delivered production-level web applications
+
+### 🌍 Freelance Web Developer  
+**09/2022 — Present**
+
+- Built small to medium-sized projects across different industries
+- Developed modern UI with React.js, Next.js, and Tailwind CSS
+- Created backend services using Node.js, Express.js, and NestJS
+- Integrated Google APIs and AI APIs
+- Deployed applications on VPS and cloud platforms
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3>🎵 Magic Dance</h3>
+<p>Modern dance platform with responsive web experience.</p>
+<a href="https://magicdance.softwareforge.tech/">Live Project</a>
+</td>
+<td width="50%">
+<h3>📅 Reservista</h3>
+<p>Reservation-based web platform with modern UI.</p>
+<a href="https://reservista.salyhal.com/">Live Project</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>🏠 HomePro</h3>
+<p>Service-based platform built for modern home service workflows.</p>
+<a href="https://homepro.softwareforge.tech/">Live Project</a>
+</td>
+<td width="50%">
+<h3>🎾 NeoPadel</h3>
+<p>Padel platform with clean frontend and production deployment.</p>
+<a href="https://neopadel.eu/">Live Project</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>💳 GonPay</h3>
+<p>Payment/product-based web platform.</p>
+<a href="https://www.gonpay.cn/">Live Project</a>
+</td>
+<td width="50%">
+<h3>🧑‍⚖️ Crightney Immigration</h3>
+<p>Professional service website with clean branding.</p>
+<a href="https://www.crightneyimmigration.com/">Live Project</a>
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="70" />
+<br />
+<strong>BS Software Engineering</strong>
+<br />
+COMSATS University, Abbottabad
+<br />
+<em>08/2021 — 02/2025</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Honors & Awards
+
+<div align="center">
+
+<img src="https://img.icons8.com/fluency/96/prize.png" width="70" />
+
+### 3rd Place — Web Development Competition
+
+Organized by the Google Developer Team at COMSATS Islamabad and Abbottabad.
+
+</div>
 
 ---
 
@@ -60,33 +249,79 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=huzaifasajjad012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifasajjad012&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=huzaifasajjad012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=6366F1&text_color=E5E7EB" />
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifasajjad012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
 
-<div align="center">
+<br />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=huzaifasajjad012&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg)
+<img src="https://streak-stats.demolab.com?user=huzaifasajjad012&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A78BFA&currStreakLabel=E5E7EB" />
 
 </div>
 
 ---
 
+## 🐍 Contribution Animation
+
 <div align="center">
 
-*Let's build something great — reach out anytime!*
-
-[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-6366f1?style=for-the-badge)](mailto:huzaifasajjad4404@gmail.com)
+<img src="https://raw.githubusercontent.com/huzaifasajjad012/huzaifasajjad012/output/snake.svg" alt="Snake animation" />
 
 </div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<strong>English</strong>
+<br />
+Fluent
+</td>
+<td align="center">
+<strong>Urdu</strong>
+<br />
+Native
+</td>
+<td align="center">
+<strong>Pushto</strong>
+<br />
+Conversational
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Let’s Work Together
+
+<div align="center">
+
+I’m available for **freelance projects, contract work, remote roles, and full-time opportunities**.
+
+<br />
+<br />
+
+<a href="mailto:huzaifasajjad4404@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/923413332077">
+  <img src="https://img.shields.io/badge/Message%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://github.com/huzaifasajjad012">
+  <img src="https://img.shields.io/badge/View%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6366f1,50:312e81,100:0f172a" />
+
+</div>
+```
