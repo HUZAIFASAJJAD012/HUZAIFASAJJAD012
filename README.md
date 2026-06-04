@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:312e81,100:6366f1&text=Huzaifa%20Sajjad&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Web%20Team%20Lead&descAlignY=58&descSize=18&animation=fadeIn" />
