@@ -1,10 +1,11 @@
 ```md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:312e81,100:6366f1&text=Huzaifa%20Sajjad&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Web%20Team%20Lead&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:312e81,100:6366f1&text=Huzaifa%20Sajjad&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Web%20Team%20Lead&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;Mobile+App+Developer;Web+Team+Lead+%26+Project+Manager;Next.js+%7C+NestJS+%7C+React+Native+%7C+Three.js;Building+modern+and+scalable+digital+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Full-Stack+Web+Developer;Mobile+App+Developer;Web+Team+Lead+%26+Project+Manager;React.js+%7C+Next.js+%7C+NestJS+%7C+React+Native;Building+Modern+Scalable+Digital+Products" alt="Typing Animation" />
 
+<br />
 <br />
 
 <a href="mailto:huzaifasajjad4404@gmail.com">
@@ -21,43 +22,51 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-I’m **Huzaifa Sajjad**, a **Full-Stack Web Developer** with **3+ years of experience** building modern, scalable, and high-performance web and mobile applications.
+Hi, I’m **Huzaifa Sajjad**, a **Full-Stack Web Developer**, **Mobile App Developer**, and **Web Team Lead**.
 
-I work across **frontend, backend, mobile apps, cloud deployment, APIs, payment systems, and product architecture**.
+I build modern, responsive, scalable, and production-ready digital products for businesses, startups, agencies, and clients worldwide.
 
-- 🚀 Full-stack development with **React.js, Next.js, Node.js, Express.js, NestJS**
-- 📱 Mobile app development with **React Native**
-- 🎨 Modern UI using **Tailwind CSS, Three.js, GSAP, Framer Motion**
-- 🧠 Backend systems with **PostgreSQL, MongoDB, Firebase, Supabase**
-- 💳 Payment integrations with **Stripe, Stripe Connect, subscriptions, multi-vendor payments**
-- ☁️ Deployment with **Vercel, Netlify, AWS, VPS, GitHub Actions**
-- 🤝 Open to **freelance, contract, remote, and full-time opportunities**
+I work on complete product development from **frontend UI**, **backend APIs**, **database architecture**, **mobile apps**, **cloud deployment**, and **project management**.
+
+- 🚀 Building modern web applications with **React.js, Next.js, Node.js, Express.js, NestJS**
+- 📱 Creating cross-platform mobile apps with **React Native**
+- 🎨 Designing clean interfaces using **Tailwind CSS, Three.js, GSAP, Framer Motion**
+- 🧠 Developing backend systems with **PostgreSQL, MongoDB, Firebase, Supabase**
+- 💳 Integrating payments using **Stripe, Stripe Connect, subscriptions, and multi-vendor flows**
+- ☁️ Deploying projects on **Vercel, Netlify, AWS, VPS, Docker, GitHub Actions**
+- 🤝 Available for **freelance projects, contract work, remote roles, and full-time opportunities**
 
 <br clear="right" />
 
 ---
 
-## 💎 Tech Stack
+# 💎 Tech Stack
 
 <div align="center">
 
-### Frontend
+## Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,threejs" />
 
-### Backend
+<br />
+
+## Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
 
-### Database & Cloud
+<br />
+
+## Database & Cloud
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase,aws,docker,githubactions" />
 
-### Tools
+<br />
+
+## Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 
@@ -65,55 +74,67 @@ I work across **frontend, backend, mobile apps, cloud deployment, APIs, payment 
 
 ---
 
-## ⚡ What I Do
+# ⚡ What I Do
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 Frontend Development
+## 🧩 Frontend Development
+
 - React.js / Next.js websites
 - Responsive landing pages
 - Single Page Applications
 - Tailwind CSS interfaces
 - Framer Motion animations
 - Three.js 3D web experiences
+- Modern business websites
+- SEO-friendly frontend structure
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛠 Backend Development
+## 🛠 Backend Development
+
 - REST API development
-- Node.js / Express.js services
+- Node.js / Express.js backend
 - NestJS architecture
 - JWT authentication
-- Database design
-- API integrations
+- Role-based dashboards
+- Database schema design
+- Third-party API integrations
+- Secure backend workflows
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 Mobile Development
+## 📱 Mobile Development
+
 - React Native apps
-- Cross-platform UI
+- Cross-platform mobile UI
 - API-connected mobile flows
+- Authentication screens
+- Dashboard-based mobile apps
 - Smooth mobile user experience
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Deployment
+## ☁️ Deployment & Management
+
 - Vercel deployment
 - Netlify deployment
 - AWS setup
 - Hostinger VPS
+- Docker deployment
 - GitHub Actions
 - Production app management
+- Domain and SSL setup
 
 </td>
 </tr>
@@ -123,106 +144,153 @@ I work across **frontend, backend, mobile apps, cloud deployment, APIs, payment 
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 🚀 Web Team Lead — Firnas.tech  
+## 🚀 Web Team Lead — Firnas.tech  
 **09/2023 — Present**
 
-- Led a small team of frontend and backend developers
-- Architected and developed microservices
-- Integrated smart contracts on client side
-- Reviewed PRs and managed codebase
+- Led a development team working on web and software projects
+- Managed frontend and backend development workflows
+- Reviewed code and improved project structure
+- Worked on scalable application architecture
+- Handled client-side smart contract integrations
 
-### ⚙️ MERN Stack Developer — Firnas.tech  
+---
+
+## ⚙️ MERN Stack Developer — Firnas.tech  
 **09/2023 — Present**
 
-- Built REST APIs for social media modules
-- Integrated APIs with client-side applications
-- Worked with Node.js, Express.js, MongoDB, React.js, JWT, Git and Axios
+- Built REST APIs for web applications
+- Integrated backend APIs with frontend applications
+- Worked with Node.js, Express.js, MongoDB, React.js, JWT, Git, and Axios
+- Developed reusable frontend components
+- Improved application performance and user experience
 
-### 🧠 Full-Stack & Project Manager — SoftwareForge Agency  
+---
+
+## 🧠 Full-Stack Developer & Project Manager — SoftwareForge Agency  
 **01/2025 — Present**
 
-- Built REST APIs and scalable backend systems
-- Integrated APIs with frontend applications
-- Managed full-stack project workflows
-- Delivered production-level web applications
+- Built production-ready full-stack applications
+- Managed project planning and development workflows
+- Integrated APIs, dashboards, payment systems, and cloud deployments
+- Delivered modern business websites and software platforms
+- Coordinated project tasks with developers and clients
 
-### 🌍 Freelance Web Developer  
+---
+
+## 🌍 Freelance Web Developer  
 **09/2022 — Present**
 
-- Built small to medium-sized projects across different industries
-- Developed modern UI with React.js, Next.js, and Tailwind CSS
+- Built websites and web applications for multiple industries
+- Developed modern UI using React.js, Next.js, and Tailwind CSS
 - Created backend services using Node.js, Express.js, and NestJS
-- Integrated Google APIs and AI APIs
+- Integrated Google APIs, AI APIs, payment gateways, and admin dashboards
 - Deployed applications on VPS and cloud platforms
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-<h3>🎵 Magic Dance</h3>
-<p>Modern dance platform with responsive web experience.</p>
-<a href="https://magicdance.softwareforge.tech/">Live Project</a>
+<td width="50%" valign="top">
+
+## 🎵 Magic Dance
+
+Modern dance platform with responsive design and clean user experience.
+
+<a href="https://magicdance.softwareforge.tech/">
+  <img src="https://img.shields.io/badge/Live%20Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </td>
-<td width="50%">
-<h3>📅 Reservista</h3>
-<p>Reservation-based web platform with modern UI.</p>
-<a href="https://reservista.salyhal.com/">Live Project</a>
+<td width="50%" valign="top">
+
+## 📅 Reservista
+
+Reservation-based web platform with modern UI and smooth user flow.
+
+<a href="https://reservista.salyhal.com/">
+  <img src="https://img.shields.io/badge/Live%20Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-<h3>🏠 HomePro</h3>
-<p>Service-based platform built for modern home service workflows.</p>
-<a href="https://homepro.softwareforge.tech/">Live Project</a>
+<td width="50%" valign="top">
+
+## 🏠 HomePro
+
+Service-based platform built for modern home service workflows.
+
+<a href="https://homepro.softwareforge.tech/">
+  <img src="https://img.shields.io/badge/Live%20Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </td>
-<td width="50%">
-<h3>🎾 NeoPadel</h3>
-<p>Padel platform with clean frontend and production deployment.</p>
-<a href="https://neopadel.eu/">Live Project</a>
+<td width="50%" valign="top">
+
+## 🎾 NeoPadel
+
+Padel platform with clean frontend and production-ready deployment.
+
+<a href="https://neopadel.eu/">
+  <img src="https://img.shields.io/badge/Live%20Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-<h3>💳 GonPay</h3>
-<p>Payment/product-based web platform.</p>
-<a href="https://www.gonpay.cn/">Live Project</a>
+<td width="50%" valign="top">
+
+## 💳 GonPay
+
+Payment and product-based web platform with professional interface.
+
+<a href="https://www.gonpay.cn/">
+  <img src="https://img.shields.io/badge/Live%20Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </td>
-<td width="50%">
-<h3>🧑‍⚖️ Crightney Immigration</h3>
-<p>Professional service website with clean branding.</p>
-<a href="https://www.crightneyimmigration.com/">Live Project</a>
+<td width="50%" valign="top">
+
+## 🧑‍⚖️ Crightney Immigration
+
+Professional service website with clean branding and modern layout.
+
+<a href="https://www.crightneyimmigration.com/">
+  <img src="https://img.shields.io/badge/Live%20Project-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </td>
 </tr>
-
 </table>
 
 </div>
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="70" />
-<br />
-<strong>BS Software Engineering</strong>
-<br />
-COMSATS University, Abbottabad
-<br />
-<em>08/2021 — 02/2025</em>
+<td align="center" width="420">
+
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="80" />
+
+## BS Software Engineering
+
+**COMSATS University, Abbottabad**
+
+**08/2021 — 02/2025**
+
 </td>
 </tr>
 </table>
@@ -231,13 +299,13 @@ COMSATS University, Abbottabad
 
 ---
 
-## 🏆 Honors & Awards
+# 🏆 Honors & Awards
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/prize.png" width="70" />
+<img src="https://img.icons8.com/fluency/96/prize.png" width="80" />
 
-### 3rd Place — Web Development Competition
+## 3rd Place — Web Development Competition
 
 Organized by the Google Developer Team at COMSATS Islamabad and Abbottabad.
 
@@ -245,7 +313,7 @@ Organized by the Google Developer Team at COMSATS Islamabad and Abbottabad.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -261,36 +329,42 @@ Organized by the Google Developer Team at COMSATS Islamabad and Abbottabad.
 
 ---
 
-## 🐍 Contribution Animation
+# 🐍 Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/huzaifasajjad012/huzaifasajjad012/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/huzaifasajjad012/huzaifasajjad012/output/snake.svg" alt="Snake Animation" />
 
 </div>
 
 ---
 
-## 🌐 Languages
+# 🌐 Languages
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
-<strong>English</strong>
-<br />
+<td align="center" width="180">
+
+## English
+
 Fluent
+
 </td>
-<td align="center">
-<strong>Urdu</strong>
-<br />
+<td align="center" width="180">
+
+## Urdu
+
 Native
+
 </td>
-<td align="center">
-<strong>Pushto</strong>
-<br />
+<td align="center" width="180">
+
+## Pushto
+
 Conversational
+
 </td>
 </tr>
 </table>
@@ -299,7 +373,7 @@ Conversational
 
 ---
 
-## 🤝 Let’s Work Together
+# 🤝 Let’s Work Together
 
 <div align="center">
 
@@ -321,7 +395,7 @@ I’m available for **freelance projects, contract work, remote roles, and full-
 <br />
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6366f1,50:312e81,100:0f172a" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:6366f1,50:312e81,100:020617" />
 
 </div>
 ```
