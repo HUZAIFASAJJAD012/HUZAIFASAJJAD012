@@ -373,4 +373,4 @@ I’m available for **freelance projects, contract work, remote roles, and full-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:6366f1,50:312e81,100:020617" />
 
 </div>
-```
+
