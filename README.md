@@ -313,22 +313,6 @@ Organized by the Google Developer Team at COMSATS Islamabad and Abbottabad.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HUZAIFASAJJAD012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6366F1&text_color=E5E7EB" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUZAIFASAJJAD012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" /> <br /> <br /> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=HUZAIFASAJJAD012&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A78BFA&currStreakLabel=E5E7EB" /> </div>
-
----
-
-# 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/huzaifasajjad012/huzaifasajjad012/output/snake.svg" alt="Snake Animation" />
-
-</div>
-
-
----
 
 # 🌐 Languages
 
